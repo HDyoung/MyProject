@@ -1,0 +1,15 @@
+C:\Users\11-2-048\Documents\MakeSugangProgram\MakeSugangProgram\bin\Debug\MakeSugangProgram.exe.config
+C:\Users\11-2-048\Documents\MakeSugangProgram\MakeSugangProgram\bin\Debug\MakeSugangProgram.exe
+C:\Users\11-2-048\Documents\MakeSugangProgram\MakeSugangProgram\bin\Debug\MakeSugangProgram.pdb
+C:\Users\11-2-048\Documents\MakeSugangProgram\MakeSugangProgram\obj\Debug\MakeSugangProgram.csprojResolveAssemblyReference.cache
+C:\Users\11-2-048\Documents\MakeSugangProgram\MakeSugangProgram\obj\Debug\App.g.cs
+C:\Users\11-2-048\Documents\MakeSugangProgram\MakeSugangProgram\obj\Debug\MakeSugangProgram_MarkupCompile.cache
+C:\Users\11-2-048\Documents\MakeSugangProgram\MakeSugangProgram\obj\Debug\MakeSugangProgram.g.resources
+C:\Users\11-2-048\Documents\MakeSugangProgram\MakeSugangProgram\obj\Debug\MakeSugangProgram.exe
+C:\Users\11-2-048\Documents\MakeSugangProgram\MakeSugangProgram\obj\Debug\MakeSugangProgram.pdb
+C:\Users\11-2-048\Documents\MakeSugangProgram\MakeSugangProgram\obj\Debug\MainWindow.baml
+C:\Users\11-2-048\Documents\MakeSugangProgram\MakeSugangProgram\obj\Debug\MainWindow.g.cs
+C:\Users\11-2-048\Documents\MakeSugangProgram\MakeSugangProgram\obj\Debug\LoginPage\LoginPage.baml
+C:\Users\11-2-048\Documents\MakeSugangProgram\MakeSugangProgram\obj\Debug\Page\MainPage.baml
+C:\Users\11-2-048\Documents\MakeSugangProgram\MakeSugangProgram\obj\Debug\LoginPage\LoginPage.g.cs
+C:\Users\11-2-048\Documents\MakeSugangProgram\MakeSugangProgram\obj\Debug\Page\MainPage.g.cs

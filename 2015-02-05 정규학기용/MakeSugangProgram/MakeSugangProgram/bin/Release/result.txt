@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+<SCRIPT Language="JavaScript">                              
+  <!--                                                        
+   alert('[에러] 4학년 수강신청 기간이 아닙니다.');                                      
+   document.location.href='./cn1000.jsp?p_contm=88462635'; 
+  //-->                                                       
+</SCRIPT>                                                     
+
+
+        <b>자바스크립트 사용을 제한하면 수강신청을 하실 수 없습니다.</b><br><br>
+        ※ 설정방법<br><br>
+        MS Internet Explorer<br><br>
+        인터넷 옵션 - 보안 - 사용자 지정 수준 - 스크립팅 - Active 스크립팅 => 사용(체크)
+
+
